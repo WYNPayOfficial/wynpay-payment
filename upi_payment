@@ -1,12 +1,8 @@
-<!DOCTYPE html>
 <html>
+<head>
+    <meta http-equiv="refresh" content="0; url=upi://pay?pa=wynpay@upi&pn=WYN%20Pay&am=1020&cu=INR">
+</head>
 <body>
-    <h3>பணம் செலுத்த கீழே உள்ள பட்டனை கிளிக் செய்யவும்:</h3>
-    
-    <!-- தொகை இல்லாமல் UPI லிங்க் -->
-    <a href="upi://pay?pa=wynpay@upi&pn=WYN%20Pay" 
-       style="padding: 15px 25px; background-color: #007bff; color: white; text-decoration: none; border-radius: 8px; font-weight: bold; font-family: sans-serif;">
-       Pay via WYN Pay
-    </a>
+    <p>Please wait while we redirect you to the payment page.</p>
 </body>
 </html>
